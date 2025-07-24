@@ -11,4 +11,6 @@
 <img aling ="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 </div></br>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress)
+
 ## Busco uma oportunidade de estágio na área de Tecnologia da Informação, onde eu possa aplicar meus conhecimentos acadêmicos, desenvolver habilidades técnicas e contribuir com soluções inovadoras para a equipe.
