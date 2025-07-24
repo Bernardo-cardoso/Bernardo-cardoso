@@ -3,6 +3,9 @@
 [![Likendin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bernardo-cardoso-4a422426b/)
 
 ![Bernardo GitHub stats](https://github-readme-stats.vercel.app/api?username=Bernardo-cardoso&show_icons=true&theme=radical)
+
+Tecnologias que uso nos projetos.
+
 <div style="display: inline_block"><br/>
 
 <img aling ="center" alt="html5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
