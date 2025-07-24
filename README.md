@@ -4,7 +4,7 @@
 
 ![Bernardo GitHub stats](https://github-readme-stats.vercel.app/api?username=Bernardo-cardoso&show_icons=true&theme=radical)
 
-##Tecnologias que uso nos projetos.
+## Tecnologias que uso nos projetos.
 
 <div style="display: inline_block"><br/>
 
