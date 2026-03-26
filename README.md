@@ -16,4 +16,8 @@
 
 
 
-## Busco uma oportunidade de estágio na área de Tecnologia da Informação, onde eu possa aplicar meus conhecimentos acadêmicos, desenvolver habilidades técnicas e contribuir com soluções inovadoras para a equipe.
+## Sou estudante de Sistemas de Informação, com conhecimentos em programação, banco de dados e pacote Office, além de facilidade para aprender novas tecnologias.
+
+Tenho perfil proativo, organizado e focado na resolução de problemas, buscando sempre evoluir tanto no aspecto técnico quanto profissional.
+
+Meu objetivo é contribuir com soluções eficientes e inovadoras, ao mesmo tempo em que desenvolvo minhas habilidades e adquiro experiência prática no mercado.
